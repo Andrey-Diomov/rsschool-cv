@@ -37,3 +37,9 @@ function substringOccurrencesCounter(substring, text) {
 ```
 ### Education
 ***
+Belarusian National Technical University
+Faculty of Power engineering
+### Languages
+***
+* English (Upper-Intermediate/B2)
+* Russian (Native)
