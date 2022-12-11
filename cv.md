@@ -22,12 +22,8 @@ workflow.
 ***
 * Java
 * Spring (Core, Boot, MVC, Security)
-* Junit, Mockito
 * JPA/Hibernate
 * JDBC, SQL
-* Maven, Gradle
-* AWS
-* CI-CD
 ### Code Example:
 ***
 ``` 
