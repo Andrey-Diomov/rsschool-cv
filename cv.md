@@ -28,3 +28,12 @@ workflow.
 * Maven, Gradle
 * AWS
 * CI-CD
+### Code Example:
+***
+``` 
+function substringOccurrencesCounter(substring, text) {
+    return text.toLowerCase().split(substring.toLowerCase()).length - 1;
+}
+```
+### Education
+***
